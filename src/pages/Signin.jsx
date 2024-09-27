@@ -4,7 +4,7 @@ export default class Signin extends PureComponent {
   render() {
     return (
       <div>
-        
+        signin
       </div>
     )
   }

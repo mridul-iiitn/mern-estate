@@ -4,7 +4,7 @@ export default class Signout extends PureComponent {
   render() {
     return (
       <div>
-        
+        signup
       </div>
     )
   }
